@@ -1,38 +1,53 @@
-.App {
+body {
+  padding-top: 2em;
   text-align: center;
+  font-family: 'Baloo Tammudu 2', cursive;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h1 {
+  font-size: 2rem;
+  text-align:center;
+  color: #000f82;
+  text-transform: uppercase;
+  letter-spacing: 0.8px
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h2{
+  max-width: 85%;
+  margin: 0.5em auto;
+  font-weight: 500
+  
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+button {
+  margin: 0 auto;
+  border: none;
+  padding: 0.5em 2em;
+  background-color: #f5335b;
   color: white;
+  text-transform: uppercase;
+  cursor: pointer; 
+  border-radius: 1em; 
+  
+  letter-spacing: 1px;
 }
 
-.App-link {
-  color: #61dafb;
+button:disabled{
+  cursor: auto;
+  background-color: grey;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+textarea {
+  width: 85%;
+  padding: 1em;
+  margin: 0 auto;
+  border-radius: 0.5em;
+  border: 1px solid black;
+  height: 10em;
+  background-color: white;
+  
+}
+
+textarea:disabled {
+  background-color: #e3e3e3;
 }

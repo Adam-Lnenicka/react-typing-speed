@@ -1,4 +1,4 @@
-{
+{ "homepage": "http://Adam-Lnenicka.github.io/react-typing-speed",
   "name": "react-type",
   "version": "0.1.0",
   "private": true,
@@ -11,6 +11,8 @@
     "react-scripts": "3.4.3"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
