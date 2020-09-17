@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-typing-speed/static/css/main.93edbc46.chunk.css",
+    "main.js": "/react-typing-speed/static/js/main.38a79eff.chunk.js",
+    "main.js.map": "/react-typing-speed/static/js/main.38a79eff.chunk.js.map",
+    "runtime-main.js": "/react-typing-speed/static/js/runtime-main.580ce0e0.js",
+    "runtime-main.js.map": "/react-typing-speed/static/js/runtime-main.580ce0e0.js.map",
+    "static/js/2.866e7a33.chunk.js": "/react-typing-speed/static/js/2.866e7a33.chunk.js",
+    "static/js/2.866e7a33.chunk.js.map": "/react-typing-speed/static/js/2.866e7a33.chunk.js.map",
+    "index.html": "/react-typing-speed/index.html",
+    "precache-manifest.177fba0ecdd338a2d6dab9d3aaa89f45.js": "/react-typing-speed/precache-manifest.177fba0ecdd338a2d6dab9d3aaa89f45.js",
+    "service-worker.js": "/react-typing-speed/service-worker.js",
+    "static/css/main.93edbc46.chunk.css.map": "/react-typing-speed/static/css/main.93edbc46.chunk.css.map",
+    "static/js/2.866e7a33.chunk.js.LICENSE.txt": "/react-typing-speed/static/js/2.866e7a33.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.580ce0e0.js",
+    "static/js/2.866e7a33.chunk.js",
+    "static/css/main.93edbc46.chunk.css",
+    "static/js/main.38a79eff.chunk.js"
+  ]
+}
